@@ -20,9 +20,9 @@ git clone  https://github.com/Corepany/ledonoff.git
 
 cd ledonoff
 
-git init
+npm init
 
-git install
+npm install
 ```
 
 ## Programın devre kısmı
