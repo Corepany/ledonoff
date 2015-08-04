@@ -22,7 +22,7 @@ cd ledonoff
 
 npm init
 
-npm install
+sudo npm install
 ```
 
 ## Programın devre kısmı
