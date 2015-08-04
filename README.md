@@ -1,7 +1,6 @@
 # ledonoff
 
-##Programın amacı
-Raspberry pi kullanarak internet üzerinden Node JS ile rasberry'e bağlı led i yakıp söndürme.
+##Raspberry Pi Node js ile internet üzerinden led ışık uygulaması
 
 ###Kullanılanlar
 - Raspberry pi (internete bağlı - usb wifi yada eternet ile)
