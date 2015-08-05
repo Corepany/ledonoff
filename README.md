@@ -28,7 +28,7 @@ sudo npm install
 
 Bu kısımda aşağıdaki şemada olduğu gibi Sol taraftaki devre Pin 9 – GND a ( sol taraftan 5. pin) ve sağ tarafındaki devrede pin 11 e (soldan 6. pin) bağlanacak. Direnç koymayı unutmayın ledleriniz yanabilir.
 
-![alt tag](http://i0.wp.com/thejackalofjavascript.com/wp-content/uploads/2014/10/Screen-Shot-2014-10-03-at-5.33.02-pm.png?resize=451%2C185)
+![alt tag](http://blog.corepany.com/wp-content/uploads/2015/08/raspberry-pi-led.png)
 
 ###Programı çalıştırmak için
 
